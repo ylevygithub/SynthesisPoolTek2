@@ -1,0 +1,18 @@
+push double(2.56)
+push int32(34)
+push double(21)
+mul
+add
+push double(0.34)
+push double(12)
+push int32(23)
+add
+add
+dup
+mul
+mul
+dump
+exit
+
+1248.92
+716.56
